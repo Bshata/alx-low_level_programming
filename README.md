@@ -1,2 +1,1 @@
-This is a readme file fr
-
+this is a readme file for the alx low level programming course 
